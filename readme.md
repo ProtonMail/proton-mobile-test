@@ -1,4 +1,4 @@
-# API
+# Proton Mobile Test API
 
 ## Setup
 
@@ -28,3 +28,9 @@ What is not permitted 👎
 Longform
 Unsplash grants you an irrevocable, nonexclusive, worldwide copyright license to download, copy, modify, distribute, perform, and use photos from Unsplash for free, including for commercial purposes, without permission from or attributing the photographer or Unsplash. This license does not include the right to compile photos from Unsplash to replicate a similar or competing service.
 ```
+
+## License
+
+The code and data files in this distribution are licensed under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version. See <https://www.gnu.org/licenses/> for a copy of this license.
+
+See [LICENSE](LICENSE) file
